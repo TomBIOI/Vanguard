@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120" role="img" aria-labelledby="title desc">
+  <title id="title">Download latest release</title>
+  <desc id="desc">Download the latest Vanguard MSI installer.</desc>
+  <polygon points="26,0 534,0 560,26 560,94 534,120 26,120 0,94 0,26" fill="#FFDD00" />
+  <text x="280" y="71" text-anchor="middle" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="30" font-weight="800" letter-spacing="1.2" fill="#111111">DOWNLOAD LATEST RELEASE</text>
+</svg>
