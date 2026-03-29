@@ -11,7 +11,7 @@ It is designed for players who want the strengths of using macros for stratagems
 
 
 <p align="center">
-  <a href="https://github.com/TomBIOI/Vanguard/raw/refs/heads/main/Releases/Vanguard-1.0.0.msi">
+  <a href="https://github.com/TomBIOI/Vanguard/raw/refs/heads/main/Releases/Vanguard-1.0.1.msi">
     <img src="Images/download-latest-release-button.svg" alt="Download the latest Vanguard release" width="480">
   </a>
 </p>
